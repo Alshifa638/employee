@@ -2,10 +2,10 @@
   "name": "employee",
   "version": "1.0.0",
   "description": "",
-  "main": "employeeApi.js",
+  "main": "empApi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node.employeeApi.js"
+    "start":"node empApi.js"
   },
   "keywords": [],
   "author": "",
